@@ -8,7 +8,7 @@ implementations. Part II focuses on graph- and string-processing
 algorithms.
 
 Course website: [Algorithms
-I](https://www.coursera.org/learn/algorithms-part1)
+II](https://www.coursera.org/learn/algorithms-part2)
 
 ### Problem Set Specs
 
